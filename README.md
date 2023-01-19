@@ -1,4 +1,4 @@
-## Hola! soy Alex Granados 👋
+# Hola! soy Alex Granados 👋
 
 <!--
 **Jhonatan-0220/Jhonatan-0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
